@@ -1,0 +1,30 @@
+body{
+    font-family: serif;
+    font-size: 16px;
+}
+h1{
+ font-family: sans-serif;
+ color: rgb(33, 87, 51);
+ font-size: 36px;
+ text-align:center;
+ background-color: rgb(75, 133, 94);
+ border-width: 3px;
+ border-style: solid;
+ border-color: rgb(33, 87, 51);
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(33, 87, 51);
+    font-size: 24px;
+}
+h3{
+    font-family: sans-serif;
+    color: rgb(33, 87, 51);
+    font-size: 20px;
+}
+p1{
+    text-align: center;
+}
+ul{
+    list-style-type: square;
+}
